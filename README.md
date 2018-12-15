@@ -1,0 +1,2 @@
+# CT30A3370HT
+Repo kurssin Käyttöjärjestelmät ja systeemiohjelmointi harjoitustyöprojekteille
