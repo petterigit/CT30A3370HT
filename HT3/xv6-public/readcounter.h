@@ -1,0 +1,2 @@
+// OWNCODE
+extern int READCOUNTER;
