@@ -1,0 +1,4 @@
+ls
+echo "asd"
+cat batch.txt
+grep main wish.c
