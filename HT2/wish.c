@@ -1,6 +1,5 @@
 /* Shell with basic functionality
    Petteri Mäkelä
-   0506167
    16/12/18
    */
 
