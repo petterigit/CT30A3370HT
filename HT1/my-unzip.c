@@ -1,7 +1,6 @@
 /*  my-unzip.c
 
     Petteri Mäkelä
-    0506167
     15/12/18
 */
 
